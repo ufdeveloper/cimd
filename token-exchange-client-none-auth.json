@@ -1,5 +1,5 @@
 {
-  "client_id": "https://ufdeveloper.github.io/token-exchange-client-none-auth",
+  "client_id": "https://ufdeveloper.github.io/cimd/token-exchange-client-none-auth.json",
   "client_name": "Token Exchange CIMD Client None Auth",
   "application_type": "native",
   "grant_types": [
