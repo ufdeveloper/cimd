@@ -14,5 +14,6 @@
   "token_endpoint_auth_method": "none",
   "redirect_uris": [
     "https://native.auth.io/app/oauth2"
-  ]
+  ],
+  "dpop_bound_access_tokens": true
 }
