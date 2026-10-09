@@ -1,0 +1,18 @@
+{
+  "client_id": "https://ufdeveloper.github.io/cimd/token-exchange-client-none-auth.json",
+  "client_name": "Token Exchange CIMD Client None Auth",
+  "application_type": "native",
+  "grant_types": [
+    "authorization_code",
+    "urn:ietf:params:oauth:grant-type:device_code",
+    "urn:ietf:params:oauth:grant-type:token-exchange",
+    "urn:ietf:params:oauth:grant-type:jwt-bearer"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "redirect_uris": [
+    "https://native.auth.io/app/oauth2"
+  ]
+}
