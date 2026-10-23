@@ -1,0 +1,10 @@
+"keys": [
+  {
+    "kty": "RSA",
+    "alg": "RS256",
+    "kid": "oidc-app-key",
+    "use": "sig",
+    "e": "AQAB",
+    "n": "51Z1bqtLm1wGqXihUd_WSBtdKnjNa_xu3w3mJz8A7NNAfihaMh_OoWYTxc6uhN8t_5M-T0l4-vlvDhF7Jtm35dcjzabyCRuEHc-H-97IDz0mxqMstBUFVjOc21otL0vv4UnTjaRavQUPdA8BG95OuG3gh_-MDl-JhmULU4cPR70OuVxx9YUmzJvjSSYxO6WBX6zzxxdBjkmCQ7sKIqqDGWo0nvaNHj3tYkRDCR0MYw1rrUjaUQ3_C79TymZuvxbZp6-PcJ9x4PUsgOtn4sWJ1POZeV77Gp_RuOVgOhSC0pYKiBv2rfptxJ-6uLjtKmaaliAyCiZcfkL7xBThD8Yfaw"
+  }
+]
