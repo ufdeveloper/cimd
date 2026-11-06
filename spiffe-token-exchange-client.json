@@ -1,0 +1,20 @@
+{
+  "client_id": "https://ufdeveloper.github.io/cimd/spiffe-token-exchange-client",
+  "client_name": "SPIFFE Token Exchange CIMD Test Client For auth.io",
+  "application_type": "web",
+  "spiffe_id": "spiffe://example.org/spiffe-token-exchange-client",
+  "spiffe_bundle_endpoint": "https://ufdeveloper.github.io/cimd/spiffe-keys-authio",
+  "grant_types": [
+    "authorization_code",
+    "urn:ietf:params:oauth:grant-type:token-exchange",
+    "urn:ietf:params:oauth:grant-type:jwt-bearer"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "redirect_uris": [
+    "http://rainoie.okta1.com/devtools/api/v1/cimd-app",
+    "https://web.auth.io/app/oauth2"
+  ],
+  "token_endpoint_auth_method": "spiffe_jwt"
+}
